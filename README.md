@@ -9,6 +9,7 @@ Il démontre comment :
 * Lancer un conteneur web localement.
 
 ---
+![Description](docker.png)
 
 ## 📁 Structure du Projet
 ```text
